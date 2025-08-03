@@ -1,10 +1,9 @@
-import { Fragment } from 'react'
-import './App.css'
+import Home from './components/templates/Home.jsx';
 
 function App() {
 
   return (
-    <h1>CodingStarts</h1>
+    <Home />
   )
 }
 
